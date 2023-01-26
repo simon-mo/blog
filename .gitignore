@@ -3,7 +3,7 @@
 
 ### NextJS ###
 # dependencies
-/node_modules
+node_modules
 /.pnp
 .pnp.js
 
@@ -44,7 +44,6 @@ logs
 **/*.backup.*
 **/*.back.*
 
-node_modules
 bower_components
 
 *.sublime*
